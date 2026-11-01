@@ -12,6 +12,9 @@
     <a href="mailto:erumkhanlander123@gmail.com">
       <img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
     </a>
+    <a href="https://www.linkedin.com/in/erum-khan-lander-6857b43a8/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
   </p>
 </div>
 
@@ -101,5 +104,8 @@
 
 <div align="center">
   <p><strong>Open to opportunities, collaborations, and freelance projects in Creative Web & AI.</strong></p>
-  <a href="https://erumkhan-dev.vercel.app"><b>Explore Full Portfolio</b></a> • <a href="mailto:erumkhanlander123@gmail.com"><b>Get in Touch</b></a>
+  <a href="https://erumkhan-dev.vercel.app"><b>Explore Full Portfolio</b></a> • <a href="mailto:erumkhanlander123@gmail.com"><b>Get in Touch</b></a> • <a href="https://www.linkedin.com/in/erum-khan-lander-6857b43a8/"><b>LinkedIn</b></a>
+    <a href="https://www.linkedin.com/in/erum-khan-lander-6857b43a8/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
 </div>
