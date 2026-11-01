@@ -20,7 +20,7 @@
 ### 💫 About Me
 
 - 🎓 **Education:** Artificial Intelligence Student at **University of Sindh, Jamshoro, Pakistan**
-- 🎨 **Creative Engineering:** Specializing in interactive 3D web interfaces, motion graphics, shader art, and canvas/WebGL experiences.
+- 🎨 **Creative Engineering:** Specializing in interactive 3D web interfaces, custom WebGL/GLSL shaders, motion design, and canvas animations.
 - 🧠 **AI & Machine Learning:** Developing predictive models, end-to-end data pipelines, and intelligent web applications.
 - ⚡ **Core Philosophy:** Blending high-performance code with visually captivating storytelling and seamless user interaction.
 - 🌐 **Interactive Portfolio:** [erumkhan-dev.vercel.app](https://erumkhan-dev.vercel.app)
@@ -61,8 +61,8 @@
         <img src="https://img.shields.io/badge/React_Three_Fiber-000000?style=flat-square&logo=react&logoColor=61DAFB" alt="R3F" />
         <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="GSAP" />
         <br/>
+        <img src="https://img.shields.io/badge/WebGL-GLSL-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL" />
         <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
-        <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL" />
         <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
       </p>
       <h4>🎨 Creative UI/UX & Tools</h4>
@@ -82,19 +82,19 @@
 
 | Project | Domain | Tech Stack | Highlights | Links |
 | :--- | :--- | :--- | :--- | :--- |
+| **T-Shirt WebGL Shader** | 3D Graphics & Shaders | React, Three.js, R3F, GLSL, Vite | Real-time 3D cloth shader customizer with physics lighting, normal maps, and dynamic color/sheen control. | [Demo](https://t-shirt-shadder.vercel.app) • [Code](https://github.com/erum-dev-max/t-shirt-shadder) |
+| **Bottle 3D Experience** | 3D Interactive Web | Three.js, GSAP, ScrollTrigger, Vite | High-performance 3D product showcase binding viewport scroll progression to camera motion and material reflections. | [Demo](https://bottle-app-red.vercel.app) • [Code](https://github.com/erum-dev-max/bottle-app) |
 | **Car Price Predictor** | Machine Learning & Web | Python, Scikit-Learn, Streamlit, Plotly | End-to-end predictive valuation system (Random Forest, 96%+ accuracy) with 8+ interactive charts and automated PDF reports. | [Code](https://github.com/erum-dev-max/carpricepredictor-webapp) |
-| **Fluidity** | Creative Web Experience | JavaScript, GSAP, CSS3, WebGL | Smooth scroll-driven frame animation and fluid dynamic canvas effects built for immersive interactive storytelling. | [Demo](https://fluidity-phi.vercel.app) • [Code](https://github.com/erum-dev-max/fluidity) |
-| **Bottle 3D Web App** | 3D Interactive Web | Three.js, React, TypeScript, Vite | High-performance 3D product showcase featuring custom camera controls, lighting shaders, and smooth interactive scroll mechanics. | [Demo](https://bottle-webapp.vercel.app) • [Code](https://github.com/erum-dev-max/bottle_webapp) |
-| **Japanese Man 3D** | 3D Motion & Canvas | JavaScript, Vite, Canvas, Animation | Character motion sequence and frame-driven interactive presentation optimized for real-time web performance. | [Demo](https://japenese-man.vercel.app) • [Code](https://github.com/erum-dev-max/japenese-man) |
+| **KlarBerlin** | Creative Web & Brand | TypeScript, WebGL, Three.js, Motion | Editorial fashion brand web experience featuring custom WebGL canvas shaders, typography, and fluid transitions. | [Demo](https://klarberlin.vercel.app) • [Code](https://github.com/erum-dev-max/klarberlin) |
+| **Fluidity** | Creative Motion | JavaScript, GSAP, ScrollTrigger, Canvas | Smooth scroll-driven frame animation and fluid dynamic canvas effects built for immersive interactive storytelling. | [Demo](https://fluidity-phi.vercel.app) • [Code](https://github.com/erum-dev-max/fluidity) |
+| **MeshBall Well** | 3D Environment | React Three Fiber, Three.js, Shaders | Procedural 3D scene exploring intricate ball mesh geometry, refractive ice brick shaders, and atmospheric lighting. | [Demo](https://meshballwell.vercel.app) • [Code](https://github.com/erum-dev-max/meshballwell) |
 
 ---
 
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erum-dev-max&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Erum's GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erum-dev-max&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=erum-dev-max&theme=tokyonight&hide_border=true" alt="Erum's GitHub Streak" />
 </p>
 
 ---
